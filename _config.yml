@@ -1,0 +1,14 @@
+name: Flysmart Academy
+layout_spectrum: 0.4989098744629866
+typography_spectrum: 0.42415514079580097
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.2666575869531579
+  lightness: 0.8681443610479971
+  saturation: 0.6886056559244811
+  rhythmicContrast: 0.256916154919437
